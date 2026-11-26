@@ -194,4 +194,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Fallout 76 · Updated 2026-11-25 · Shared under the MIT License*
+*Fallout 76 · Updated 2026-11-26 · Shared under the MIT License*
